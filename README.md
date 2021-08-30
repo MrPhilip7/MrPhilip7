@@ -12,5 +12,5 @@ I am a game developer from Poland🎮 Working on Unity using C#
 <br>
 
 ## Finished Games
-<img align="left" alt="1" src="https://play-lh.googleusercontent.com/jMLelYU4xjQXegdr0fe3RlW_ygotkcD8UDf6-Bphy_1IfbILFOPSAVP1ey9TtVt0jA=s180-rw"" />
+Jushroom: Space Jump <img align="left" alt="google-play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 
