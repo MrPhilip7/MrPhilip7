@@ -1,5 +1,5 @@
 ### Hello World, I'm Filip 👋
-I am a game developer from Poland🎮 Working on Unity using C#
+I am a game developer from Poland. Working on Unity using C# 🎮🐱‍🏍
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/filip-czerwi%C5%84ski-8629591b3/)[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/fczerwinski_/)<br>
