@@ -10,3 +10,7 @@ I am a game developer from Poland🎮 Working on Unity using C#
 <img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <br>
+
+## Finished Games
+<img align="left" alt="1" src="https://play-lh.googleusercontent.com/jMLelYU4xjQXegdr0fe3RlW_ygotkcD8UDf6-Bphy_1IfbILFOPSAVP1ey9TtVt0jA=s180-rw"" />
+
