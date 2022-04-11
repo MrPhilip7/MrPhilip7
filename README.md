@@ -12,5 +12,5 @@ I am a game developer from Poland. Working on Unity using C# 🎮🐱‍🏍
 <br>
 
 ## Finished Games
-### Jushroom: Space Jump [<img align="left" alt="google-play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.FilipCzerwinski.Jushroom)<br>
+### RGB Bolide Racing [<img align="left" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />](https://mrphilip7.github.io/RGB-Bolide-Racing/)<br>
 
