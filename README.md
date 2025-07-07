@@ -22,22 +22,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-<!--
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrPhilip7/MrPhilip7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrPhilip7/MrPhilip7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MrPhilip7/MrPhilip7/output/github-snake.svg" />
-</picture>
-
-###
--->
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MrPhilip7/count.svg?"  />
-</div>
-
-###
