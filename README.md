@@ -10,31 +10,6 @@
 
 <img align="right" height="150" src="https://scontent-waw2-2.xx.fbcdn.net/v/t39.30808-6/481330376_9257569491005207_163070000584934920_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oojF0_7P2ZIQ7kNvgFU64Ks&_nc_oc=AdgPrQEnopxnPa3zYm_Yns6XZtUeONF8ZrHZxr3nqUY2p0s6R138EbnyVrfE0BIssQM&_nc_zt=23&_nc_ht=scontent-waw2-2.xx&_nc_gid=Atc9DMFefgZMkwO_kVLNLvu&oh=00_AYGKdnXjKm583zNP07_XgBMIyHM3dNZKu2cLuGneT4JJQQ&oe=67D3BA4A"  />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="35" alt="jira logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="35" alt="filezilla logo"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/filip-czerwi%C5%84ski-8629591b3/" target="_blank">
