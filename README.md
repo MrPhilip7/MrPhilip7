@@ -8,7 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent-waw2-2.xx.fbcdn.net/v/t39.30808-6/481330376_9257569491005207_163070000584934920_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oojF0_7P2ZIQ7kNvgFU64Ks&_nc_oc=AdgPrQEnopxnPa3zYm_Yns6XZtUeONF8ZrHZxr3nqUY2p0s6R138EbnyVrfE0BIssQM&_nc_zt=23&_nc_ht=scontent-waw2-2.xx&_nc_gid=Atc9DMFefgZMkwO_kVLNLvu&oh=00_AYGKdnXjKm583zNP07_XgBMIyHM3dNZKu2cLuGneT4JJQQ&oe=67D3BA4A"  />
 
 
 <div align="left">
